@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"HypotenuseOfRightAngleTriangle","l":"HypotenuseOfRightAngleTriangle()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"HypotenuseOfRightAngleTriangle","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"HypotenuseOfRightAngleTriangle","l":"power"}];updateSearchResults();
